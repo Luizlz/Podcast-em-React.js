@@ -1,0 +1,176 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "podcast": "O que é um bom código?",
+      "integrantes": "Diego e Richard",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 2,
+      "podcast": "Como começar na programação",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 3,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 4,
+      "podcast": "Como programar like a god",
+      "integrantes": "Maria, Tiago e Samuel",
+      "data": "7 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 5,
+      "podcast": "Bora viver!",
+      "integrantes": "Diego e Richard",
+      "data": "12 Fev 21",
+      "duracao": "0:57:27"
+    },
+    {
+      "id": 6,
+      "podcast": "Não desista de você",
+      "integrantes": "Plepas, Pulili, Pepe e Pula",
+      "data": "24 Mar 21",
+      "duracao": "1:27:11"
+    },
+    {
+      "id": 7,
+      "podcast": "A vida é incrivel",
+      "integrantes": "B1 e B2 descendo as escadas",
+      "data": "25 Mar 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 8,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    }
+  ],
+  "categorias2": [
+    {
+      "id": 4,
+      "podcast": "Como programar like a god",
+      "integrantes": "Maria, Tiago e Samuel",
+      "data": "7 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 1,
+      "podcast": "O que é um bom código?",
+      "integrantes": "Diego e Richard",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 2,
+      "podcast": "Como começar na programação",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 3,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 8,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 5,
+      "podcast": "Bora viver!",
+      "integrantes": "Diego e Richard",
+      "data": "12 Fev 21",
+      "duracao": "0:57:27"
+    },
+    {
+      "id": 6,
+      "podcast": "Não desista de você",
+      "integrantes": "Plepas, Pulili, Pepe e Pula",
+      "data": "24 Mar 21",
+      "duracao": "1:27:11"
+    },
+    {
+      "id": 7,
+      "podcast": "A vida é incrivel",
+      "integrantes": "B1 e B2 descendo as escadas",
+      "data": "25 Mar 21",
+      "duracao": "1:35:18"
+    }
+  ],
+  "categorias3": [
+    {
+      "id": 4,
+      "podcast": "Como programar like a god",
+      "integrantes": "Maria, Tiago e Samuel",
+      "data": "7 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 2,
+      "podcast": "Como começar na programação",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 5,
+      "podcast": "Bora viver!",
+      "integrantes": "Diego e Richard",
+      "data": "12 Fev 21",
+      "duracao": "0:57:27"
+    },
+    {
+      "id": 6,
+      "podcast": "Não desista de você",
+      "integrantes": "Plepas, Pulili, Pepe e Pula",
+      "data": "24 Mar 21",
+      "duracao": "1:27:11"
+    },
+    {
+      "id": 1,
+      "podcast": "O que é um bom código?",
+      "integrantes": "Diego e Richard",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 3,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 8,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 7,
+      "podcast": "A vida é incrivel",
+      "integrantes": "B1 e B2 descendo as escadas",
+      "data": "25 Mar 21",
+      "duracao": "1:35:18"
+    }
+  ]
+}

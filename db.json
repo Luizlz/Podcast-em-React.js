@@ -1,0 +1,194 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "podcast": "O que é um bom código?",
+      "integrantes": "Diego e Richard",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 2,
+      "podcast": "Como começar na programação",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 3,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 4,
+      "podcast": "Como programar like a god",
+      "integrantes": "Maria, Tiago e Samuel",
+      "data": "7 Jan 21",
+      "duracao": "0:35:40"
+    },
+
+    {
+      "id": 5,
+      "podcast": "Bora viver!",
+      "integrantes": "Diego e Richard",
+      "data": "12 Fev 21",
+      "duracao": "0:57:27"
+    },
+    {
+      "id": 6,
+      "podcast": "Não desista de você",
+      "integrantes": "Plepas, Pulili, Pepe e Pula",
+      "data": "24 Mar 21",
+      "duracao": "1:27:11"
+    },
+    {
+      "id": 7,
+      "podcast": "A vida é incrivel",
+      "integrantes": "B1 e B2 descendo as escadas",
+      "data": "25 Mar 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 8,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    }
+  ],
+
+  "categorias2": [
+    {
+      "id": 4,
+      "podcast": "Como programar like a god",
+      "integrantes": "Maria, Tiago e Samuel",
+      "data": "7 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 1,
+      "podcast": "O que é um bom código?",
+      "integrantes": "Diego e Richard",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 2,
+      "podcast": "Como começar na programação",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 3,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 8,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+
+    {
+      "id": 5,
+      "podcast": "Bora viver!",
+      "integrantes": "Diego e Richard",
+      "data": "12 Fev 21",
+      "duracao": "0:57:27"
+    },
+    {
+      "id": 6,
+      "podcast": "Não desista de você",
+      "integrantes": "Plepas, Pulili, Pepe e Pula",
+      "data": "24 Mar 21",
+      "duracao": "1:27:11"
+    },
+    {
+      "id": 7,
+      "podcast": "A vida é incrivel",
+      "integrantes": "B1 e B2 descendo as escadas",
+      "data": "25 Mar 21",
+      "duracao": "1:35:18"
+    }
+  ],
+
+  "categorias3": [
+    {
+      "id": 4,
+      "podcast": "Como programar like a god",
+      "integrantes": "Maria, Tiago e Samuel",
+      "data": "7 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 2,
+      "podcast": "Como começar na programação",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "0:35:40"
+    },
+    {
+      "id": 5,
+      "podcast": "Bora viver!",
+      "integrantes": "Diego e Richard",
+      "data": "12 Fev 21",
+      "duracao": "0:57:27"
+    },
+    {
+      "id": 6,
+      "podcast": "Não desista de você",
+      "integrantes": "Plepas, Pulili, Pepe e Pula",
+      "data": "24 Mar 21",
+      "duracao": "1:27:11"
+    },
+    {
+      "id": 1,
+      "podcast": "O que é um bom código?",
+      "integrantes": "Diego e Richard",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+
+    {
+      "id": 3,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+    {
+      "id": 8,
+      "podcast": "A vida é boa",
+      "integrantes": "Tiago, Diego e Pellizzetti",
+      "data": "8 Jan 21",
+      "duracao": "1:35:18"
+    },
+
+    {
+      "id": 7,
+      "podcast": "A vida é incrivel",
+      "integrantes": "B1 e B2 descendo as escadas",
+      "data": "25 Mar 21",
+      "duracao": "1:35:18"
+    }
+  ],
+
+  "categorias4": [
+    {
+      "id": 1,
+      "titulo": "Como  começar na programação em 2021 do jeito certo",
+      "integrantes": "Diego e Richard",
+      "data": "8 Jan 21",
+      "duracao": "35:40",
+      "texto1": "Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmitz, Bruno Lemos e Diego Haz, para discutir sobre a importância da contribuição open source e quais desafios circulam na comunidade.",
+      "texto2": "A gente Passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação. O Faladev é um podcast original Rockeseat."
+    }
+  ]
+}

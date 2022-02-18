@@ -1,0 +1,14 @@
+json-server --watch db.json --port 5000 para conectar com Banco de dados 
+npm star para inicar Projeto
+
+
+
+Informações e funcionalidades sobre o Projeto 
+Projeto foi criando em 12/02/2022 e finalizado no dia 18/02/2022
+Objetivo é criar do Zero sem utilização de códigos prontos ou já criado anteriormente pelo Dev.
+Uma plataforma que simula um Podcast 
+Funcionalidades:
+Possível selecionar o podcast na tabela Podcast
+Organizar pela Data ou Duração
+Podcast Exibi a Hora Atual  
+ Projeto não estão em modo responsivo 
